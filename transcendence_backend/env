@@ -1,0 +1,10 @@
+DATABASE_URL="postgresql://postgres:aiYRMLDgAMFJryARxgii@containers-us-west-150.railway.app:6272/railway"
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=aiYRMLDgAMFJryARxgii
+POSTGRES_DATABASE=railway
+POSTGRES_HOST=containers-us-west-150.railway.app
+POSTGRES_PORT=6272
+JWT_SECRET=secret
+NEXT_PUBLIC_API_URL=http://10.13.4.1:4000
+NEXT_PUBLIC_API_URL_FRONT=http://10.13.4.1:3000
+NEXT_PUBLIC_API_URL_CALLBACK=http://10.13.4.1:4000/login/callback
